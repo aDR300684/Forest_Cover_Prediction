@@ -26,7 +26,7 @@ This project demonstrates the application of deep learning techniques to predict
 
 ## Repository Contents
 
-Due to GitHub's file size limitations, certain files required for this project are not included in the repository. These files will be generated step by step by running the provided notebook:
+Due to GitHub's file size limitations, certain files required for this project are not included in the repository. These files will be generated step by step by running the provided notebook `forest_cover_prediction.ipynb`:
 
 - `cover_data.csv`: Dataset used for the project. [Download the dataset](https://content.codecademy.com/courses/deeplearning-with-tensorflow/dlsp-portfolio-starter-code.zip)
 - `resampled_data.pkl`: Resampled dataset.
@@ -38,4 +38,5 @@ Due to GitHub's file size limitations, certain files required for this project a
 
 1. Clone the repository.
 2. Install the required libraries.
-3. Run the notebook to generate the necessary files and see the complete analysis and results.
+3. Run the notebook `forest_cover_prediction.ipynb` to generate the necessary files and see the complete analysis and results.
+

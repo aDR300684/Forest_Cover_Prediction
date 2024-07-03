@@ -26,8 +26,9 @@ This project demonstrates the application of deep learning techniques to predict
 
 ## Repository Contents
 
-- `cover_data.csv`: Dataset used for the project.
-- `notebook.ipynb`: Jupyter notebook with the project code and analysis.
+Due to GitHub's file size limitations, certain files required for this project are not included in the repository. These files will be generated step by step by running the provided notebook:
+
+- `cover_data.csv`: Dataset used for the project. [Download the dataset](https://content.codecademy.com/courses/deeplearning-with-tensorflow/dlsp-portfolio-starter-code.zip)
 - `resampled_data.pkl`: Resampled dataset.
 - `initial_model.keras`: Initial trained model.
 - `best_model.keras`: Best model after hyperparameter tuning.
@@ -37,4 +38,4 @@ This project demonstrates the application of deep learning techniques to predict
 
 1. Clone the repository.
 2. Install the required libraries.
-3. Run the notebook to see the complete analysis and results.
+3. Run the notebook to generate the necessary files and see the complete analysis and results.
